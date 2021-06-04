@@ -31,8 +31,9 @@ $	sudo apt-get install golang
 **Output**
 <br>
 To see the output move to /target/hussh-date/ and track for the file target.html and open it with your browser and you will se a page like this.
-
+<br>
 ![webresults]=(/screens/1.png)
+<br>
 <h4 allign="center"> HussH</h4>
 
 what this tool do.
