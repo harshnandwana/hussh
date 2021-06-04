@@ -1,6 +1,13 @@
-#HussH! 
+# | | | |  _   _   ___   ___  | | | | | |
+# | |_| | | | | | / __| / __| | |_| | | |
+# |  _  | | |_| | \__ \ \__ \ |  _  | |_|
+# |_| |_|  \__,_| |___/ |___/ |_| |_| (_)
+
+<br>
 a script which can be used for recon and exploitation purpose and is a combination of various tools .
+<br>
 **Install**
+<br>
 ```
 git clone https://github.com/harshnandwana/hussh
 ```
@@ -22,6 +29,7 @@ $	sudo apt-get install golang
 ----
 
 **Output**
+<br>
 To see the output move to /target/hussh-date/ and track for the file target.html and open it with your browser and you will se a page like this.
 
 ![webresults]=(https://github.com/harshnandwana/hussh/screens/1.png)
