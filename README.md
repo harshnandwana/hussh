@@ -1,13 +1,7 @@
-**| | | |  _   _   ___   ___  | | | | | |**
-**| |_| | | | | | / __| / __| | |_| | | |**
-**|  _  | | |_| | \__ \ \__ \ |  _  | |_|**
-**|_| |_|  \__,_| |___/ |___/ |_| |_| (_)**
-
-<br>
 a script which can be used for recon and exploitation purpose and is a combination of various tools .
 <br>
 **Install**
-<br>
+
 ```
 git clone https://github.com/harshnandwana/hussh
 ```
