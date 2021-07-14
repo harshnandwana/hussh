@@ -9,7 +9,7 @@ git clone https://github.com/harshnandwana/hussh
 ----
 **Usage**
 ```
-$	chmod +x hussh.sh
+$	chmod +x *
 $	./hussh <target.com>
 ```
 ----
