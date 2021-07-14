@@ -1,5 +1,6 @@
 # HussH!
 a script which can be used for recon and exploitation purpose and is a combination of various tools .
+this tool is to be used on kali only till now 
 <br>
 **Install**
 
