@@ -1,5 +1,5 @@
 # HussH!
-a script which can be used for recon and exploitation purpose and is a combination of various tools .
+a script which can be used for recon and exploitation purpose and is a combination of various tools . this tool works only on kali for oither distributions use docker
 <br>
 **Install**
 
