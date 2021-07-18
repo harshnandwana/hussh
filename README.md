@@ -1,13 +1,25 @@
 # HussH!
 a script which can be used for recon and exploitation purpose and is a combination of various tools .
-this tool is to be used on kali only till now 
 <br>
 **Install**
 
 ```
 git clone https://github.com/harshnandwana/hussh
 ```
-----
+---
+**Docker**
+```
+$	docker run -it -d --name hussh shubham9672/hussh
+``` 
+Now whenever you want to run your Docker container just use given below command
+```
+$	docker exec -it hussh /bin/bash
+```
+Commad for using hussh in docker
+```
+$	cd hussh
+$	./hussh <target.com>
+```
 **Usage**
 ```
 $	chmod +x *
