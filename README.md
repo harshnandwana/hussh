@@ -42,6 +42,10 @@ To see the output move to /target/hussh-date/ and track for the file target.html
 <br>
 ![web results](/screens/1.png)
 <br>
+The process of work is shown here feel free to do changes and commit here.
+<br>
+![Process_dia](/screens/hussh.png)
+<br>
 <h4 allign="center"> HussH</h4>
 
 what this tool do.
